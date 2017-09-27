@@ -4,4 +4,11 @@
   <meta charset="UTF-8">
     <title>ActiveBot</title>
 </head
+<body>
+  <nav>
+  <a href="product">Product</a>
+  <a href="programma">programma</a>
+  <a href="contact">contact</a>
+  <a href="koopofhuur">Koop/Huur</a>
+  </nav
 </html>
