@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-    <title>ActiveBot</title>
-</head
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="test.css">
+	<title>Document</title>
+</head>
 <body>
-  <nav>
-  <a href="product">Product</a>
-  <a href="programma">programma</a>
-  <a href="contact">contact</a>
-  <a href="koopofhuur">Koop/Huur</a>
-  </nav
+	<img class="logo" src="logo-final2.png">
+	<ul class="nav">
+	  <li><a href="product">Product</a></li>
+	  <li><a href="programma">Programma</a></li>
+	  <li><a href="contact">Contact</a></li>
+	  <li><a href="koopofhuur">Koop/Huur</a></li>
+	</ul>
+	</div>
+
+	<div class="banner">
+		<img class="banner-image" src="banner.png" alt="logo">
+	</div>
+</body>
 </html>
